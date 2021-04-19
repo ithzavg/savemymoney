@@ -25,17 +25,17 @@
 .card-total__total-expenses{
     position:absolute;
     font-weight: bold;
-    font-size: 50px;
-    left: 166px;
+    font-size: 39px;
+    left: 129px;
     top: 48px;
     color:#ffff
 }
 
 .card-total__footer-text{
-    position:absolute;
-    font-size: 18px;
-    left: 221px;
-    top: 139px;
+    position: absolute;
+    font-size: 16px;
+    left: 118px;
+    top: 110px;
 }
 
 .list-expenses{
@@ -46,10 +46,10 @@
     position: absolute;
     display: flex;
     align-items: center;
-    width: 580px;
-    height: 174px;
-    left: 416px;
-    top: 152px;
+    width: 421px;
+    height: 134px;
+    left: 335px;
+    top: 129px;
 
     background: linear-gradient(180deg, #AAA3FF 26.04%, #B37BFF 70.31%);
     border-radius: 8px;
@@ -60,22 +60,22 @@
     display: flex;
     align-items: center;
     width: 406px;
-    height: 172px;
-    left: 1110px;
-    top: 154px;
+    height: 134px;
+    left: 806px;
+    top: 129px;
     border-radius: 10px;
     
     background: #FFFFFF; 
 }
 
 .img-user{
-   width: 140px; 
+   width: 112px; 
 }
 
 .search-expense{
     position: absolute;
-    left: 349px;
-    top: 360px;
+    left: 335px;
+    top: 301px;
 }
 
 .input{
@@ -92,7 +92,7 @@
 }
 
 .text-instructions{
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .search-expense__button{
@@ -103,8 +103,8 @@
 
 .list-expenses{
     position: absolute;
-    top: 510px;
-    left: 345px;
+    top: 436px;
+    left: 336px;
 }
 
 .item{
