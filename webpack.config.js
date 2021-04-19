@@ -33,11 +33,9 @@ module.exports = {
          ),
          new CopyWebpackPlugin({
             patterns: [{
-              from: './src/styles/styles.css',
+              from: './src/styles/',
               to: '',
-              from: './src/styles/dashboard.css',
-              to: '',
-              from: './src/styles/expense.css',
+              from: './src/img/',
               to:''
             }]
          })
