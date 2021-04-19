@@ -32,12 +32,10 @@ module.exports = {
              }
          ),
          new CopyWebpackPlugin({
-            patterns: [{
-              from: './src/styles/',
-              to: '',
-              from: './src/img/',
-              to:''
-            }]
+            patterns: [
+              {from: './src/styles/', to: 'src/styles'},
+              {from: './src/img/',to:'src/img'}
+            ]
          })
     ]
 }
