@@ -1,0 +1,27 @@
+.content-newexpense{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 177px;
+}
+
+.text-instructions--expense{
+    margin-bottom: 25px;
+}
+
+.input-expense{
+    width: 484px;
+    border-radius: 15px;
+
+}
+
+.save-expense__button{
+    width: 75px;
+    height: 47px;
+    font-size: 24px;
+    margin-top: 15px;
+    position: absolute;
+    left: 41%;
+    top: 100%;
+    
+}
