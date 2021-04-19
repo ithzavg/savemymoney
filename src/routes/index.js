@@ -7,7 +7,7 @@ import resolveRoutes from '../utils/resolveRoutes';
 
 
 const routes = {
-    '/' : Dashboard,
+    '/savemymoney' : Dashboard,
     '/expense': NewExpense
 }
 

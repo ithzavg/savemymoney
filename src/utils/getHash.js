@@ -1,5 +1,5 @@
 const getHash = () =>{
-    return location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/';
+    return location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/savemymoney';
 } 
     
 

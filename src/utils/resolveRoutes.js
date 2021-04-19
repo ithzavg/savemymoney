@@ -1,6 +1,6 @@
 const resolveRoutes = (route) =>{
     if (route.length <= 3) {
-        let validRoute = route === '/' ? route : '/expense';
+        let validRoute = route === '/savemymoney' ? route : '/expense';
         return validRoute;
       }
     return `/${route}`;

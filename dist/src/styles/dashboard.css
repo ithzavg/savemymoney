@@ -1,4 +1,4 @@
-#content{
+#content-dashboard{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +78,7 @@
     top: 360px;
 }
 
-.input-expense{
+.input{
     margin-top:15px;
     background: #F0EEEE;
     border: none;
@@ -87,6 +87,8 @@
     cursor: pointer;
     font-size: 22px;
     outline:none;
+    font-family: Sen;
+    text-align: center;
 }
 
 .text-instructions{
@@ -97,7 +99,6 @@
     width: 75px;
     height: 40px;
     font-size: 19px;
-    font-family: Sen;
 }
 
 .list-expenses{

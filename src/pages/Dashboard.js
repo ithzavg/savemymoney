@@ -9,7 +9,7 @@ const Dashboard = () => {
                     <p class="white-text card-total__footer-text">your last expense was on: <span><span></p>
                 </section>
                 <section class="card-user">
-                    <img class="img-user" src="/src/img/profile-w.png"></img>
+                    <img class="img-user" src="src/img/profile-w.png"></img>
                     <p class="black-text">User name</p>
                 </section>
             <div>
