@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">This is a first desktop app for all the users whose want to have a record of their expenses please check out our application clicking here  <a href="" target="_blank">Save my money</a>.</h4>
+<h4 align="center">This is a first desktop app for all the users whose want to have a record of their expenses please check out our application clicking here  <a href="https://ithzavg.github.io/savemymoney/#/savemymoney" target="_blank">Save my money</a>.</h4>
 
 <hr>
 
